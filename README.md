@@ -21,3 +21,5 @@ Author
 ===
 
 kbinani
+
+@JMVoid added winnet.go by hand make to implement to query and set the internet option as system proxy
